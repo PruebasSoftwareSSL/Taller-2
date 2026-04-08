@@ -1,4 +1,4 @@
-name: CI-CD-Pipeline
+name: CICD
 
 # Permisos para que github-actions[bot] pueda hacer push a gh-pages
 permissions:
